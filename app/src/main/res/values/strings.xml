@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pinjam Buku</string>
+    <string name="description_book">Deskripsi Buku</string>
+    <string name="date">Durasi Pinjam</string>
+    <string name="summary">Summary</string>
+
+    <string name="back_button">Back</string>
+
+    <string name="peminjaman_buku_baru">Peminjaman Buku Baru</string>
+
+
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+
+    <string name="new_pinjam_buku">Pinjam Buku Baru</string>
+
+    <string name="send">Send Order to Another App</string>
+
+
+
+
+</resources>
